@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/anuragxxi" target="blank"><img src="https://img.shields.io/twitter/follow/anuragxxi?logo=twitter&style=for-the-badge" alt="anuragxxi" /></a> </p>
-<p align="left"> <a href="https://profile-counter.glitch.me/{YOUR USER}/count.svg)" target="blank"></a> </p>
+
+<p> <a href="https://profile-counter.glitch.me/{YOUR USER}/count.svg)"></a> </p>
 
 
 
