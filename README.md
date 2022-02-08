@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/anuragxxi" target="blank"><img src="https://img.shields.io/twitter/follow/anuragxxi?logo=twitter&style=for-the-badge" alt="anuragxxi" /></a> </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 - 🔭 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://anuragxxi.netlify.app/](https://anuragxxi.netlify.app/)
