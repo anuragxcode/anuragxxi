@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/anuragxxi" target="blank"><img src="https://img.shields.io/twitter/follow/anuragxxi?logo=twitter&style=for-the-badge" alt="anuragxxi" /></a> </p>
 
-<p align="left"> <a href="https://visitor-badge.laobi.icu/badge?page_id=Bhaveshajani177.Bhaveshajani177" target="blank"><img src="https://img.shields.io/twitter/follow/anuragxxi?logo=twitter&style=for-the-badge" alt="anuragxxi" /></a> </p>
-
 - 🔭 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://anuragxxi.netlify.app/](https://anuragxxi.netlify.app/)
