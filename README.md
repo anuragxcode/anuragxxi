@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently learning **React and JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://anuragxxi.netlify.app/](https://anuragxxi.netlify.app/)
 
-- 💬 Ask me about **React, Node, JavaScript and CSS**
+- 💬 Ask me about **JavaScript and HTML & CSS**
 
 - 📫 How to reach me **anuragsingh21121999@gmail.com**
 
